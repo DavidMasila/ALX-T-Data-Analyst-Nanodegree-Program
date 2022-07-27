@@ -8,7 +8,8 @@ The data set has data of 174,952 riders characterized by Age_group, Age, duratio
 ## Summary of Findings
 
 - During exploration i found out that majority of the bikers were subcribers.
-- Further comparison between subcribers and customers showed that customers rode for longer durations compared to subscribers across all ages. - In regards to gender, majority of the riders were male outnumbering the other genders by a very large margin. 
+- Further comparison between subcribers and customers showed that customers rode for longer durations compared to subscribers across all ages. 
+- In regards to gender, majority of the riders were male outnumbering the other genders by a very large margin. 
 - I further discovered most rides were taken during weekdays and thursday was the day with the leading number of rides. I expected the weekends to have majority of the rides. 
 - The rides peaked at 8am and 5pm. 
 - After binning the age column, it also came to my attention that people in their thirties rode more compared to all other age groups. They even rode more compared to the younger people in their twenties. 
